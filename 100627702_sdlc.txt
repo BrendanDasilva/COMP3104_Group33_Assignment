@@ -1,5 +1,6 @@
-Software Development Life Cycle
-
+--------------------------------------------------------------------------------
+Software Development Life Cycle | Kailie Field | 100627702
+--------------------------------------------------------------------------------
 The SDLC is incredibly important as it provides teams the ability
 to ensure that business objectives are met while utilizing problem-solving processes
 that improve communication and transparency between the development teams and those that commission them.
