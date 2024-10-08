@@ -1,0 +1,4 @@
+Importance of Learning DevOps in the Software Development Cycle. 
+
+
+Learning DevOps is crucial in the software development cycle because it bridges the gap between development and operations teams, promoting a culture of collaboration and continuous integration and delivery. 
