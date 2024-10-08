@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Brendan Dasilva (101447806) - [GitHub](https://github.com/BrendanDasilva)
 - **Member 2:** Lucas Caridi (#########) - [GitHub](https://github.com/)
-- **Member 3:** Kailie Field ((#########)) - [GitHub](https://github.com/)
+- **Member 3:** Kailie Field (100627702) - [GitHub](https://github.com/KailieField)
 - **Member 4:** Jessica Lee ((#########)) - [GitHub](https://github.com/)
 
 ## Project Description
