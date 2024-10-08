@@ -1,0 +1,7 @@
+Development Operations:
+
+One thing I really enjoy about Development Operations is how organized it can be,
+and how that organization facilitates efficient work flow.
+
+By combining and automating software development and IT operations,
+disciplines are able to work together to create high quality products. 
