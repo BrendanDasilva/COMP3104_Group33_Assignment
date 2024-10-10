@@ -1,0 +1,8 @@
+Information about the COMP3104 DevOps course
+
+
+This course teaches student about the procedures, protocols and best practices that a DevOps engineer has.
+
+This course is geared towards preparing professionals entering the IT field.
+This is a field where servers, web apps, and infrastucture are core to business needs.
+
