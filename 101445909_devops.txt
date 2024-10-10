@@ -6,3 +6,10 @@ This course teaches student about the procedures, protocols and best practices t
 This course is geared towards preparing professionals entering the IT field.
 This is a field where servers, web apps, and infrastucture are core to business needs.
 
+COMP3104 examines ways in which companies have either lost or saved fortunes with DevOps strategies.
+In this course you will:
+-Build your own pipeline
+-Complete 10 Quizzes
+-Complete lab exercizes practicing DevOps skilsl
+-Complete 1 Midterm
+-Complete 1 Final Exam.  
