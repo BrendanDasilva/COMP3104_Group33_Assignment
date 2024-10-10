@@ -1,0 +1,11 @@
+The importance of learning DevOps in the software develoopment cycle.
+
+The DevOps model is effective in increasing operational efficiency, and accelerates in delivery.
+
+By increasing operational efficiency we are able to:
+-Innovate Products Faster
+-Adapt to changing markets quicker
+-Offer continuous delivery on softwares
+-Collaborate better between teams
+-Resolve issues Faster
+-Reduce complexity.
