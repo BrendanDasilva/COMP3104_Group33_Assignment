@@ -1,0 +1,7 @@
+I am currently taking the COMP 3104 DevOps course at George Brown College,
+where I’m learning about the core concepts of DevOps,
+including continuous integration and continuous delivery.
+I’m gaining hands-on experience with tools like Docker, Jenkins, and Git,
+and exploring the cultural aspects of collaboration between development and operations teams.
+This course is helping me develop industry-relevant skills that
+I can apply in real-world scenarios.
