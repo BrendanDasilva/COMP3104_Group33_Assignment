@@ -5,3 +5,6 @@ I’m gaining hands-on experience with tools like Docker, Jenkins, and Git,
 and exploring the cultural aspects of collaboration between development and operations teams.
 This course is helping me develop industry-relevant skills that
 I can apply in real-world scenarios.
+
+One key reason to choose a career in DevOps is the high demand for skilled professionals,
+as organizations increasingly seek to improve efficiency and accelerate software delivery.
