@@ -4,7 +4,7 @@
 - **Leader:** Brendan Dasilva (101447806) - [GitHub](https://github.com/BrendanDasilva)
 - **Member 2:** Lucas Caridi (101437253) - [GitHub](https://github.com/LJCar)
 - **Member 3:** Kailie Field (100627702) - [GitHub](https://github.com/KailieField)
-- **Member 4:** Jessica Lee ((#########)) - [GitHub](https://github.com/)
+- **Member 4:** Jessica Lee (101445909) - [GitHub](https://github.com/justanotherjess72)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
